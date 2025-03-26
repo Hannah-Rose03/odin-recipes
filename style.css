@@ -17,3 +17,30 @@ body {
     padding-right: 30px;
     text-align: justify; 
 }
+
+.Ingredients {
+    margin-right: 50%;
+}
+
+.Ingredients span {
+    display: block;
+    padding-left: 25px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    font-weight: 500;
+    color: white;
+    background-color: #56330e;
+    width:fit-content;
+}
+
+.Directions {
+    margin-left: 50%;
+}
+
+.even span {
+    color: white;
+    background-color: #56330e;
+    width:fit-content;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
