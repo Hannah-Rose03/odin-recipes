@@ -1,12 +1,19 @@
-/*all*/
-
 body {
     background-color: beige;
 }
 
-/*index.html*/
-
 .link {
     color: black;
     font-weight: 1000;
+}
+
+.Description h3 {
+    text-align: center;
+}
+
+.Description {
+    margin: 10px 5px;
+    padding-left: 30px;
+    padding-right: 30px;
+    text-align: justify; 
 }
